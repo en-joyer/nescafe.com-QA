@@ -45,12 +45,6 @@ The tests use:
     * Surname: [random surname]
     * Email: [random email]
     * Date of birth: 01/02/1990
-    * Gender: Male
-    * Province: [random province]
-    * District: [random district]
-    * Address: [random address]
-    * Postal Code: [random postal code]
-    * Phone Number: [random phone number]
 * Click on the "Continue" button.
 * Verify that the "This field is required" error message appears.
 
@@ -58,18 +52,16 @@ The tests use:
 
 * Access the https://www.nescafe.com/tr website.
 * Click on the Profile logo in the upper menu.
-* Click on the "Log In" option.
 * Enter an invalid password in the form.
-* Click on the "Log In" button.
+* Click on the "Log In" option.
 * Verify that the "Invalid email address or password" error message appears.
 
 ### Blank Email Error Validation in Login Form #3
 
 * Access the https://www.nescafe.com/tr website.
 * Click on the Profile logo in the upper menu.
-* Click on the "Log In" option.
 * Leave the email field blank in the form.
-* Click on the "Log In" button.
+* Click on the "Log In" option.
 * Verify that the "This field is required" error message appears.
 
 ### Blank Password Error Validation in Login Form #4
