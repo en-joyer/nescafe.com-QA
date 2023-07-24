@@ -2,7 +2,7 @@
 
 This project contains end-to-end tests for the Nescafe website using Cypress.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" /><img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" alt="Cypress.io" /> <img src="https://img.shields.io/badge/QA_Hunt-Academy-blue" alt="QA Hunt" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />  <img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" alt="Cypress.io" /> <img src="https://img.shields.io/badge/QA_Hunt-Academy-blue" alt="QA Hunt" />
 ## Test
 
 Move the file to  `cypress/e2e/`.
