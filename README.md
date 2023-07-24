@@ -1,6 +1,7 @@
 # Nescafe End-to-End Testing
 
 This project contains end-to-end tests for the Nescafe website using Cypress.
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -8,6 +9,7 @@ This project contains end-to-end tests for the Nescafe website using Cypress.
 [![QA HUNT - Academy](https://img.shields.io/badge/QA_HUNT-Academy-blue?style=for-the-badge)](https://)
 
 </div>
+
 ## Test
 
 Move the file to  `cypress/e2e/`.
